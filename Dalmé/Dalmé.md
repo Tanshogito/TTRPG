@@ -10,7 +10,7 @@ Particularité
 
 Départ de l'aventure (Été 576)
 ---
-Nos aventuriers, fidèles servants de [[La cours des 90 sorciers|la cours des 90 sorciers]] de [[Juliuni]] sont appelés par le [[Haut conseil]].
+Nos aventuriers, fidèles servants de [[La cours des 90 sorciers|la cours des 90 sorciers]] de [[Juliuni]] sont appelés par le [[Haut Conseil]].
 
 Il doivent emmener le médecin, [[Docteur Legrant]] auprès de la doyenne de la cours, [[Madame Ilvati]] dans la cité de [[Lucarost]].
 
