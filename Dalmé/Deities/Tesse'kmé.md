@@ -4,7 +4,7 @@ tags:
 ---
 Description
 ---
-Déesse de l'été, de la naissance. 
+Déesse de l'été et de la naissance. 
 
 C'est elle qui dépose les enfants sur [[Dalmé]].
 

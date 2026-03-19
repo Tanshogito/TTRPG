@@ -4,5 +4,5 @@ tags:
 ---
 Description
 ---
-Cité perdue
+Cité perdue des mages.
 
