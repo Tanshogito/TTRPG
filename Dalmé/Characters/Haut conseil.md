@@ -6,6 +6,8 @@ Clichés:
 - Dirigeant
 - Elementaliste
 ---
+---
+
 | Clichés       | Max Dices | Current Dices |
 | ------------- | --------- | ------------- |
 | Magicien      | 11        | 11            |

@@ -5,6 +5,8 @@ Clichés:
 - Magicien
 - Dirigeant
 ---
+---
+
 | Clichés    | Max Dices | Current Dices |
 | ---------- | --------- | ------------- |
 | Magicienne | 5         | 5             |

@@ -4,6 +4,8 @@ tags:
 Clichés:
 - Ent
 ---
+---
+
 | Clichés | Max Dices | Current Dices |
 | ------- | --------- | ------------- |
 | Ent     | 8         | 8             |

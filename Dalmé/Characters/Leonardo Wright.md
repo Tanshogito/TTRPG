@@ -6,12 +6,14 @@ Clichés:
 - Survivaliste
 - Érudit
 ---
-| Clichés     | Max Dices | Current Dices |
-| ----------- | --------- | ------------- |
-| Inventeur   | 4         | 4             |
+---
+
+| Clichés      | Max Dices | Current Dices |
+| ------------ | --------- | ------------- |
+| Inventeur    | 4         | 4             |
 | Survivaliste | 2         | 2             |
-| Érudit      | 2         | 2             |
-|             |           |               |
+| Érudit       | 2         | 2             |
+|              |           |               |
 
 Description
 ---

@@ -5,6 +5,8 @@ Clichés:
 - Médecin
 - Infiltrateur
 ---
+---
+
 | Clichés      | Max Dices | Current Dices |
 | ------------ | --------- | ------------- |
 | Médecin      | 5         | 5             |
@@ -26,4 +28,4 @@ Sa petitesse n'a d'égal que son talent.
 
 Caractère
 ---
-Patient, fier et sûr de lui, il ne laissera pas les autres faire ce dont-il est capable à sa place.
+Patient, fier et sûr de lui, il ne laissera pas les autres faire ce dont il est capable à sa place.
